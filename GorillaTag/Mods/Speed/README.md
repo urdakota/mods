@@ -4,6 +4,6 @@ Simple speed mod
 
 [download](./Speed.dll?raw=true)
 
-[x] supports configuration!
-[x] modded server ONLY!
-[x] HauntedModMenu support!
+-[x] supports configuration!
+-[x] modded server ONLY!
+-[x] HauntedModMenu support!
