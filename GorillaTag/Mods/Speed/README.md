@@ -1,4 +1,4 @@
-Simple speed mod 
+Simple speed mod thats also open source!
 
 ![Example!](./Gifs/example.gif?raw=true)
 
