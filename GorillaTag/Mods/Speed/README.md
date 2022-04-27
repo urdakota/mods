@@ -1,5 +1,5 @@
 Simple speed mod 
 
-![Example!](./Gifs/gif.gif?raw=true)
+![Example!](./Gifs/example.gif?raw=true)
 
 [download](./Speed.dll)
