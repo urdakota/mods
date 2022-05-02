@@ -7,3 +7,7 @@ Simple speed mod thats also open source!
 - [x] supports configuration!
 - [x] modded server ONLY!
 - [x] HauntedModMenu support!
+
+## Credits
+
+[Space Monke](https://github.com/legoandmars/SpaceMonke)
